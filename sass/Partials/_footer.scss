@@ -1,23 +1,23 @@
-#footer {
+.footer {
     left: 0;
     bottom: 0;
     position: absolute;
 }
 
-#footer_white {
+.footer-white {
     display: inline-flex;
     margin: 30px auto;
     text-align: center;
 }
 
 
-#footer_white  li {
+.footer-white  li {
     list-style: none;
     margin: 0 70px;
     cursor: pointer; 
 }
 
-#footer_white  a {
+.footer-white  a {
     margin-top: 15px;
     text-decoration: none;
     font-size: 10px;
